@@ -52,7 +52,7 @@ const Portfolio = () => {
         "HTML",
         "CSS",
         "Prompt Engineering",
-        "Git",
+        "Git & Github",
         "REST APIs",
         "Docker",
     ];
